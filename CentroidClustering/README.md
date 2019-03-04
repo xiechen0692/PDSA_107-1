@@ -15,7 +15,7 @@ The clustering procedures are described as follows:
 
 Output the size and coordinates of the remaining three clusters.  
 Example Image:
-
+![](https://github.com/xiechen0692/PDSA_107-1/blob/master/CentroidClustering/hw5.png)
 ```
 Input Example
 hw5.zip
