@@ -18,7 +18,7 @@ Note:
 - The judge system will use the LineSegment.java provided by course author.  
 
 Example Image:
-
+![](https://github.com/xiechen0692/PDSA_107-1/blob/master/collinear/hw4.png)
 ```
 Input Example:
 8
